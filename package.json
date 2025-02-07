@@ -1,0 +1,11 @@
+{
+  "name": "react_js",
+  "version": "1.0.0",
+  "description": "",
+  "workspaces": [
+    "apps/*"
+  ],
+  "keywords": [],
+  "author": "pahuldeep singh",
+  "license": "ISC"
+}
